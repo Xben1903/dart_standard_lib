@@ -98,7 +98,7 @@ Returns an `ordinal number` of `String` type for any integer
 
 ```dart
 2.ordinal();  // 2nd
-452.ordinal();  // 452th
+254.ordinal();  // 254th
 ```
 
 ### .plus() or plusOrNull()
